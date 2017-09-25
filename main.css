@@ -39,7 +39,7 @@ a:active {
 }
 
 html {
-  background-image: url('bg.png');
+  background-image: url('images/bg.png');
   -webkit-background-size: auto;
   -moz-background-size: auto;
   -o-background-size: auto;
