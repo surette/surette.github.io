@@ -22,12 +22,12 @@ a:active {
   width: 100%;
   top: 50px;
   left: 100px;
-  font-family: 'Lobster', serif;
+  font-family: 'Indie Flower', cursive;
   font-size: 50pt;
   color: #eeeeee;
 }
 
-.text {
+.text, .contact {
   position: relative;
   width: 100%;
   top: 50px;
@@ -36,6 +36,10 @@ a:active {
   font-size: 14pt;
   color: #eeeeee;
   max-width: 500px;
+}
+
+.contact {
+  padding-top: 1em;
 }
 
 html {
@@ -48,6 +52,8 @@ html {
 }
 
 .icon {
-  height: 36px;
-  width: 36px;
+  height: 48px;
+  width: 48px;
+  object-fit: contain;
+  padding-right: 5px;
 }
