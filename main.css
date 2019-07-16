@@ -23,7 +23,7 @@ a:active {
   top: 50px;
   left: 100px;
   font-family: 'Indie Flower', cursive;
-  font-size: 50pt;
+  font-size: 52pt;
   color: #eeeeee;
 }
 
@@ -33,9 +33,9 @@ a:active {
   top: 50px;
   left: 100px;
   font-family: 'Open Sans', sans-serif;
-  font-size: 14pt;
+  font-size: 16pt;
   color: #eeeeee;
-  max-width: 500px;
+  max-width: 600px;
 }
 
 .contact {
