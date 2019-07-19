@@ -23,7 +23,7 @@ a:active {
   top: 50px;
   left: 100px;
   font-family: 'Indie Flower', cursive;
-  font-size: 52pt;
+  font-size: 4em;
   color: #eeeeee;
 }
 
@@ -33,9 +33,9 @@ a:active {
   top: 50px;
   left: 100px;
   font-family: 'Open Sans', sans-serif;
-  font-size: 16pt;
+  font-size: 1em;
   color: #eeeeee;
-  max-width: 600px;
+  max-width: 500px;
 }
 
 .contact {
@@ -52,8 +52,8 @@ html {
 }
 
 .icon {
-  height: 48px;
-  width: 48px;
+  height: 36px;
+  width: 36px;
   object-fit: contain;
-  padding-right: 5px;
+  margin-right: 5px;
 }
