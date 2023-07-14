@@ -1,3 +1,5 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css");
+
 a {
   color: #993366;
   text-decoration: none;
@@ -23,17 +25,18 @@ a:active {
   top: 50px;
   left: 100px;
   font-family: 'Indie Flower', cursive;
-  font-size: 4em;
+  font-size: clamp(2.0rem, -0.875rem + 8.333vw, 4.0rem);
   color: #eeeeee;
 }
 
-.text, .contact {
+.text,
+.contact {
   position: relative;
   width: 100%;
   top: 50px;
   left: 100px;
   font-family: 'Open Sans', sans-serif;
-  font-size: 1em;
+  font-size: clamp(1rem, 0.6250rem + 1.6667vw, 1.3rem);
   color: #eeeeee;
   max-width: 500px;
 }
